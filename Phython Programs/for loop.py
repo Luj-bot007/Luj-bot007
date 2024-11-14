@@ -10,7 +10,7 @@ for a in colours:
     print(a)
     for k in a:
         print(k)
-d="I love you"
+
 q=0
 for q in range(100):
     print(d )
