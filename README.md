@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java, python, HTML, CSS, JavaScript.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me ... email me .
-- 😄 Pronouns: LujBro
+- 😄 Pronouns: he/his
 - ⚡ Fun fact: Programming isn't just about writing code—it's about thinking differently and solving problems. 
 
 <!---
